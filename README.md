@@ -1,4 +1,4 @@
---V.0.6
+--V.0.6--
 Hello And Welcome To FE-Pets Developed By Two Skilled Developers.
 We are currently hiring developers.
 All you have to do to execute the script is get a executor.
